@@ -1,0 +1,201 @@
+ID,Name,Designation,HEC,Department,Email,Image,Extention,Highest Education
+1238,Dr. Kashif Zafar,Professor & HOD,True,FAST School of Computing Faculty,kashif.zafar@nu.edu.pk,/media/Faculty/01._Dr_Kashif_Zafar_Prof._CS.JPG,569.0,"PhD (CS), NUCES, Islamabad (2010)"
+4027,Dr. Aamir Wali,Professor,True,FAST School of Computing Faculty,aamir.wali@nu.edu.pk,/media/Faculty/51._Dr_Aamir_Wali_Prof._AIDS.JPG,572.0,"PhD (CS), NUCES, Lahore (2019)"
+4391,Dr. Asif Mahmood Gillani,Professor,True,FAST School of Computing Faculty,asif.gilani@nu.edu.pk,/media/Faculty/02._Dr_Asif_Mehmood_Gilani_Prof._CS.JPG,558.0,"Ph.D(Computing), University of Patras , Greece (2002)"
+6113,Dr. Asma Naseer,Professor,True,FAST School of Computing Faculty,asma.naseer@nu.edu.pk,/media/Faculty/07._Dr_Asma_Naseer_Assoc._Prof._CS.png,634.0,"PhD (CS), NUCES, Lahore (2018)"
+4329,Dr. Zareen Alamgir,Professor,True,FAST School of Computing Faculty,zareen.alamgir@nu.edu.pk,/media/Faculty/03._Dr_Zareen_Alamgir_Prof._CS.JPG,612.0,"Ph.D (CS), NUCES, Lahore (2014)"
+6968,Dr. Aasim Qureshi,Associate Professor,True,FAST School of Computing Faculty,aasim.qureshi@nu.edu.pk,/media/Faculty/Dr._Muhammad_Aasim_Qureshi-removebg-preview.png,558.0,"PhD (CS), University Teknologi, Malaysia, (2015)"
+9113,Dr. Ali Afzal Malik,Associate Professor,True,FAST School of Computing Faculty,ali.afzal@nu.edu.pk,/media/Faculty/65._Dr_Ali_Afzal_Malik_Asst._Prof._SE_SM6VFgQ.JPG,311.0,"Ph.D (CS), University of Southern, California, United States (2010)"
+6174,Dr. Arshad Ali,Associate Professor,True,FAST School of Computing Faculty,arshad.ali1@nu.edu.pk,/media/Faculty/04._Sr_Arshad_Ali_Assoc._Prof._CS.JPG,607.0,"PhD (CS),UPMC (Paris VI ), France, (2012)"
+9540,Dr. Maryam Bashir,Associate Professor,True,FAST School of Computing Faculty,maryam.bashir@nu.edu.pk,/media/Faculty/52._Dr_Maryam_Bashir_Asst._Prof._AIDS_1jSZW7K.JPG,635.0,"Ph.D (CS), Northeastern University, Boston, USA (2014)"
+5181,Dr. Rana Asif Rehman,Associate Professor,True,FAST School of Computing Faculty,r.asif@nu.edu.pk,/media/Faculty/05-_Dr_Rana_Asif_Rehman_Assoc._Prof._CS.JPG,595.0,"PhD (Electronics & Computer Engineering), Hongik University, South Korea (2016)"
+4261,Dr. Saira Karim,Associate Professor,True,FAST School of Computing Faculty,saira.karim@nu.edu.pk,/media/Faculty/06._Dr_Saira_Karim_Assoc._Prof._CS.JPG,617.0,"PhD (CS), NUCES, Lahore (2013)"
+6048,Dr. Zeeshan Ali Khan,Associate Professor,True,FAST School of Computing Faculty,zeeshanali.khan@nu.edu.pk,/media/Faculty/08._Dr_Zeeshan_Ali_Khan_Assoc._Prof._CS.JPG,606.0,"PhD (Distributed Embedded Systems), University of Nice-Sophia Antipolis, France (2011)"
+5116,Dr. Aatira Anum,Assistant Professor,False,FAST School of Computing Faculty,aatira.anum@nu.edu.pk,/media/Faculty/12._Dr_Aatira_Anum_Asst._Prof._CS.JPG,586.0,"PhD (CS), LUMS, Lahore (2023)"
+6811,Dr. Abdul Qadeer,Assistant Professor,False,FAST School of Computing Faculty,aqadeer@nu.edu.pk,/media/Faculty/13._Dr_Abdul_Qadeer_Asst._Prof._CS.JPG,644.0,"PhD (CS), University of Southern, California (2021)"
+4236,Dr. Ahmad Raza,Assistant Professor,False,FAST School of Computing Faculty,muhammad.ahmadraza@nu.edu.pk,/media/Faculty/14._Dr_Ahmad_Raza_Asst._Prof._CS_T2lFicM.JPG,621.0,"PhD (Engineering & IT), University of Technology Sydney (UTS), Australia (2023)"
+6418,Dr. Ammar Haider,Assistant Professor,False,FAST School of Computing Faculty,ammar.haider@nu.edu.pk,/media/Faculty/10._Dr_Ammar_Haider_Assist._Prof._CS.png,597.0,"PhD (CS), Monash University, Australia (2013)"
+4335,Dr. Asma Ahmad Farhan,Assistant Professor,True,FAST School of Computing Faculty,asma.ahmad@nu.edu.pk,/media/Faculty/54._Dr_Asma_Ahmad_Asst._Prof._AIDS_RWyt2iB.png,212.0,"PhD (CS), University of Connecticut, USA (2016)"
+6667,Dr. Faisal Aslam,Assistant Professor,False,FAST School of Computing Faculty,faisal.aslam@nu.edu.pk,/media/Faculty/11._Dr_Faisal_Aslam_Asst._Prof._CS.JPG,614.0,"PhD (PL), University of Frieburg, Germany (2011)"
+4677,Dr. Farooq Ahmed,Assistant Professor,False,FAST School of Computing Faculty,farooq.ahmad@nu.edu.pk,/media/Faculty/64._Dr_Farooq_Ahmed_Asst._Prof._SE.JPG,577.0,"PhD (CS) NUCES, Lahore (2022)"
+6562,Dr. Hajra Waheed,Assistant Professor,False,FAST School of Computing Faculty,hajra.waheed@nu.edu.pk,/media/Faculty/55._Dr_Hajra_Waheed_Asst._Prof._AIDS_zvotU88.png,625.0,"PhD (CS), ITU, Lahore (2022)"
+9539,Dr. Haroon Mahmood,Assistant Professor,True,FAST School of Computing Faculty,haroon.mahmood@nu.edu.pk,/media/Faculty/08_-_Dr._Haroon_Mahmood_Asst_Prof_CS__1_-removebg-preview.png,237.0,"Ph.D(Computer and Control Engineering), Politecno di Torino, Italy (2014)"
+6273,Dr. Iqra Safder,Assistant Professor,True,FAST School of Computing Faculty,iqra.safder@nu.edu.pk,/media/Faculty/13_-_Dr._Iqra_Safdar_Asst_Prof_CS-removebg-preview.png,,"PhD (CS), ITU, Lahore, 2021"
+5114,Dr. Mirza Mubasher Baig,Assistant Professor,True,FAST School of Computing Faculty,mubasher.baig@nu.edu.pk,/media/Faculty/53._Dr_Mirza_Mubasher_Baig_Asst._Prof._AIDS.JPG,591.0,"Ph.D (CS), LUMS, Lahore (2016)"
+6302,Dr. Syed Mohammad Irteza,Assistant Professor,True,FAST School of Computing Faculty,m.Irteza@nu.edu.pk,/media/Faculty/6302_5wrK2JS-removebg-preview.png,247.0,"PhD (CS), LUMS, Lahore (2018)"
+6255,Dr. Tahir Ejaz,Assistant Professor,False,FAST School of Computing Faculty,tahir.ejaz@nu.edu.pk,/media/Faculty/09._Dr_Tahir_Ejaz_Asst._Prof._CS.JPG,553.0,"PhD (Natural Science), TU Dortmund University, Germany (2016)"
+5466,Dr. Zeeshan Ali Rana,Assistant Professor,True,FAST School of Computing Faculty,zeeshan.rana@nu.edu.pk,/media/Faculty/66_Dr_Zeeshan_Ali_Rana_Asst._Prof._SE_PatO3hE.JPG,562.0,"Ph.D (CS), LUMS, Lahore (2016)"
+5424,Dr. Hammad Naveed,Adj. Professor,True,FAST School of Computing Faculty,hammad.naveed@nu.edu.pk,/media/Faculty/01_-_Dr._Hammad_Naveed_Professor_CS__Director__1_-removebg-preview.png,227.0,"Ph.D. (Bioengineering), The University of Illinois at Chicago, USA (2012)"
+3720,Mr. Aamir Raheem,Assistant Professor,False,FAST School of Computing Faculty,aamir.raheem@nu.edu.pk,/media/Faculty/16._Aamir_Raheem_Asst._Prof._CS.JPG,559.0,"MS (CS), NUCES, Lahore (2006)"
+5054,Ms. Abeeda Akram,Assistant Professor,False,FAST School of Computing Faculty,abeeda.akram@nu.edu.pk,/media/Faculty/20._Abeeda_Akram_Asst._Prof._CS.png,593.0,"MS(CS), NUCES, Lahore (2015)"
+4234,Ms. Bushra Rashid,Assistant Professor,False,FAST School of Computing Faculty,bushra.rashid@nu.edu.pk,/media/Faculty/24._Bushra_Rashid_Asst._Prof._CS.png,247.0,"M.S (TE), NUCES, Lahore (2012)"
+4015,Mr. Ishaq Raza,Assistant Professor,False,FAST School of Computing Faculty,ishaq.raza@nu.edu.pk,/media/Faculty/15._Ishaq_Raza_Asst._Prof._CS.JPG,214.0,"MS(CS), UCP, Lahore (2013)"
+4507,Ms. Lehmia Kiran,Assistant Professor,True,FAST School of Computing Faculty,lehmia.kiran@nu.edu.pk,/media/Faculty/21._Lehmia_Kiran_Asst._Prof._CS.png,604.0,"MS (CS), NUCES, Lahore  (2010)"
+4239,Ms. Maimoona Akram,Assistant Professor,False,FAST School of Computing Faculty,maimoona.akram@nu.edu.pk,/media/Faculty/23._Maimoona_Akram_Asst._Prof._CS.png,247.0,"M.S (EE), NU- Lahore, Pakistan (2013)"
+5103,Mr. Mirza Waqar Baig,Assistant Professor,False,FAST School of Computing Faculty,waqar.baig@nu.edu.pk,/media/Faculty/22._Mirza_Waqar_Baig_Asst._Prof._CS_hvK0Pyz.png,414.0,"MS (E& CE), Hanyang University, South Korea, Republic of (2011)"
+5221,Ms. Noshaba Nasir,Assistant Professor,True,FAST School of Computing Faculty,noshaba.nasir@nu.edu.pk,/media/Faculty/028_Noshaba_Nasir_AP_CS-removebg-preview_1-removebg-preview.png,219.0,"M.S(CS), FAST-NUCES Lahore, Pakistan (2016)"
+5115,Ms. Samin Iftikhar,Assistant Professor,False,FAST School of Computing Faculty,samin.iftikhar@nu.edu.pk,/media/Faculty/17._Samin_Iftikhar_Asst_Prof._CS.png,581.0,"MS(CS), NUCES, Lahore (2014)"
+4232,Ms. Sobia Tariq Javed,Assistant Professor,False,FAST School of Computing Faculty,sobia.tariq@nu.edu.pk,/media/Faculty/19._Sobia_Tariq_Javed_Asst._Prof._CS.JPG,641.0,"MS (CS), NUCES, Lahore (2007)"
+5230,Mr. Waqas Manzoor,Assistant Professor,False,FAST School of Computing Faculty,waqas.manzoor@nu.edu.pk,/media/Faculty/18._Waqas_Manzoor_Assit_Prof._CS.png,618.0,"MS (CS), NUCES, Lahore (2015)"
+6172,Ms. Aleena Ahmad,Lecturer,False,FAST School of Computing Faculty,aleena.ahmad@nu.edu.pk,/media/Faculty/30._Aleena_Ahmad_Lecturer_CS.png,552.0,"MS (Software Engineering), NUST, Islamabad (2020)"
+6311,Ms. Anosha Khan,Lecturer,False,FAST School of Computing Faculty,anosha.khan@nu.edu.pk,/media/Faculty/71._Anoosha_Khan_Lecturer_SE.JPG,626.0,"M PHIL (CS), PUCIT, Lahore (2020)"
+6379,Ms. Ansa Liaqat,Lecturer,False,FAST School of Computing Faculty,ansa.liaqat@nu.edu.pk,/media/Faculty/62._Ansa_Liaqat_Lecturer_AIDS.JPG,,"MS (AI), NUCES, Islamabad (2023)"
+6924,Ms. Aqsa Khalid,Lecturer,False,FAST School of Computing Faculty,aqsa.khalid@nu.edu.pk,/media/Faculty/Aqsa_Khalid-removebg-preview.png,551.0,"MS (DS), ITU, Lahore (2023)"
+6305,Ms. Arooj Khalil,Lecturer,False,FAST School of Computing Faculty,arooj.khalil@nu.edu.pk,/media/Faculty/70._Arooj_Khalil_Lecturer_SE.JPG,633.0,"MS (CS), NUCES, Lahore (2020)"
+6723,Ms. Asbah Khalid,Lecturer,True,FAST School of Computing Faculty,asbah.khalid@lhr.nu.edu.pk,/media/Faculty/38._Asbah_Khalid_Lecturer_CS.jpg,360.0,"MS (Data Science), NUCES, Lahore (2023)"
+6553,Mr. Danyal Farhat,Lecturer,False,FAST School of Computing Faculty,danyal.farhat@nu.edu.pk,/media/Faculty/34._Danyal_Farhat_Lecturer_CS_oDWYVFu.png,642.0,"MS (CS), UCP, Lahore (2021)"
+6788,Ms. Eesha Tur Razia Babar,Lecturer,False,FAST School of Computing Faculty,esha.razia@nu.edu.pk,/media/Faculty/61._Eesha_Tur_Raziz_Baber_Lecturer_AIDS.png,556.0,"MSc ( Electrical and Computer Engineering),  University of California Irvine, USA (2023)"
+6274,Mr. Fraz Yousaf,Lecturer,False,FAST School of Computing Faculty,fraz.yousaf@nu.edu.pk,/media/Faculty/72._Fraz_Yousaf_Lecturer_SE.JPG,598.0,"MS (CS),NUCES, Lahore (2022)"
+6308,Mr. Hafiz Usama Hassan Alvi,Lecturer,False,FAST School of Computing Faculty,usama.hassan@nu.edu.pk,/media/Faculty/26._Usama_Hassan_Alvi_Lecturer_CS.png,582.0,"MPhil (CS), PUCIT, Lahore (2019)"
+6307,Mr. Hamad Ul Qudous,Lecturer,False,FAST School of Computing Faculty,hamad.ulqudous@nu.edu.pk,/media/Faculty/59._Hamad_Ul_Qudous_Lecturer_AIDS.JPG,620.0,"MS (CS), NUCES, Lahore (2016)"
+6551,Ms. Hina Iqbal,Lecturer,False,FAST School of Computing Faculty,hina.iqbal@nu.edu.pk,/media/Faculty/73._Hina_Iqbal_Lecturer_SE.png,560.0,"MS (SE), UET, Taxila (2015)"
+6419,Ms. Hira Butt,Lecturer,False,FAST School of Computing Faculty,hira.butt@nu.edu.pk,/media/Faculty/36._Hira_Butt_Lecturer_CS.JPG,580.0,"MS (CS), UCP, Lahore (2022)"
+6820,Ms. Kiran Khurshid,Lecturer,False,FAST School of Computing Faculty,kiran.khurshid@nu.edu.pk,/media/Faculty/40._Kiran_Khurshid_Lecturer_CS.JPG,594.0,"MS (Software Project Management), NUCES, Lahore (2008)"
+6588,Mr. M. Saif Ul Islam,Lecturer,False,FAST School of Computing Faculty,muhammad.saif@nu.edu.pk,/media/Faculty/56._M_Saif_Ul_Islam_Lecturer_AIDS.JPG,603.0,"MS (DS), NUCES, Karachi (2019)"
+6277,Ms. Maham Naeem,Lecturer,False,FAST School of Computing Faculty,maham.naeem@nu.edu.pk,/media/Faculty/35._Maham_Naeem_Lecturer_CS.png,615.0,"MS (CS), NUCES, Lahore (2020)"
+6253,Ms. Mamoona Akbar Khan,Lecturer,False,FAST School of Computing Faculty,mamoona.akbar@nu.edu.pk,/media/Faculty/42._Mamoona_Akbar_Jun._Lect._CS.JPG,587.0,"MS (CS), NUCES, Lahore (2021)"
+6549,Ms. Mamoona Majid,Lecturer,False,FAST School of Computing Faculty,mamoona.majid@nu.edu.pk,/media/Faculty/74._Mamoona_Majid_Lecturer_SE.png,602.0,"MS (CS), UET, Lahore (2019)"
+6560,Ms. Mehroze Khan,Lecturer,False,FAST School of Computing Faculty,mehroze.khan@nu.edu.pk,/media/Faculty/75._Mehroze_Khan_Lecturer_SE.JPG,629.0,"MS (CS), NUCES, Lahore (2021)"
+6295,Ms. Momna Zaneb,Lecturer,False,FAST School of Computing Faculty,momna.zaneb@nu.edu.pk,/media/Faculty/69._Momna_Zaneb_Lecturer_SE.png,590.0,"MS (SPM), NUCES, Lahore (2021)"
+6415,Mr. Mubashar Hussain,Lecturer,False,FAST School of Computing Faculty,mubashar.hussain@nu.edu.pk,/media/Faculty/31._Mubashar_Hussain_Lecturer_CS.png,638.0,"MS (CS), COMSATS, Lahore (2021)"
+6114,Mr. Muhammad Naveed,Lecturer,False,FAST School of Computing Faculty,muhammad.naveed@nu.edu.pk,/media/Faculty/29._Muhammad_Naveed_Lecturer_CS_la7oUg9.JPG,554.0,
+6554,Ms. Namra Absar,Lecturer,False,FAST School of Computing Faculty,namra.absar@nu.edu.pk,/media/Faculty/33._Namra_Absar_Lecturer_CS.png,557.0,"MPhil (CS), PUCIT, Lahore (2019)"
+5967,Mr. Razi-uddin,Lecturer,False,FAST School of Computing Faculty,razi.uddin@nu.edu.pk,/media/Faculty/68._Razi_Uddin_Lectrurer_SE.JPG,592.0,"MS (CS), NUCES, Lahore (2020)"
+6552,Ms. Rubab Anam Janjua,Lecturer,False,FAST School of Computing Faculty,rubab.anam@nu.edu.pk,/media/Faculty/32._Rubab_Anam_Janjua_Lecturer_CS.JPG,637.0,"MS (CS), LCWU, Lahore (2017)"
+6268,Mr. Saifullah Tanvir,Lecturer,False,FAST School of Computing Faculty,saifullah.tanvir@nu.edu.pk,/media/Faculty/28._Saifullah_Tanvir_Lecturer_CS.jpeg,575.0,"MS (CS), NUCES, Lahore (2021)"
+6773,Mr. Sajid Ali Kazmi,Lecturer,False,FAST School of Computing Faculty,sajid.kazmi@nu.edu.pk,/media/Faculty/39._Sajid_Ali_Kazmi_Lecturer_CS.JPG,600.0,"MPhil (CS), PUCIT, Lahore (2023)"
+5986,Mr. Salman Shoaib,Lecturer,True,FAST School of Computing Faculty,salman.shoaib@nu.edu.pk,/media/Faculty/41._Salman_Shoaib_jun._Lect_CS.JPG,570.0,"MS (EE), NUCES, Lahore (2019)"
+6171,Ms. Sana Fatima,Lecturer,False,FAST School of Computing Faculty,sana.fatima@nu.edu.pk,/media/Faculty/57._Sana_Fatima_Lecturer_AIDS.png,589.0,"MS (CS), NUCES, Lahore (2021)"
+6719,Ms. Seemab Ayub,Lecturer,False,FAST School of Computing Faculty,seemab.ayub@nu.edu.pk,/media/Faculty/48._Seemab_Ayub_Instructor_CS.JPG,627.0,"BS (CS), PU, Lahore (2018)"
+6925,Mr. Syed Ayaz Gillani,Lecturer,False,FAST School of Computing Faculty,ayaz.gillani@nu.edu.pk,/media/Faculty/Syed_Ayaz_Gillani-removebg-preview.png,,"MS (CS), UCP, Lahore (2022)"
+6309,Mr. Syed Uzair Hussain Naqvi,Lecturer,False,FAST School of Computing Faculty,uzair.naqvi@nu.edu.pk,/media/Faculty/27._Syed_Uzair_Hussain_Lecturer_CS.JPG,304.0,"MS (CS), LUMS, Lahore (2020)"
+6559,Ms. Umm E Ammarah,Lecturer,False,FAST School of Computing Faculty,umme.ammarah@nu.edu.pk,/media/Faculty/60._Umm_e_Ammarah_Lecturer_AIDS.JPG,631.0,"MPhil (CS), PU, Lahore (2020)"
+6722,Mr. Usman Anwer,Lecturer,False,FAST School of Computing Faculty,usman.anwer@lhr.nu.edu.pk,/media/Faculty/47._Usman_Anwar_Instructor_CS.JPG,630.0,"BS (CSE), Islamia University,  Bahawalpur (2015)"
+6927,Mr. Waqas Ali,Lecturer,False,FAST School of Computing Faculty,rana.waqasali@nu.edu.pk,/media/Faculty/Waqas_Ali-removebg-preview.png,600.0,"MS (SE), UMT, Lahore (2018)"
+6662,Mr. Zeeshan Nazar,Lecturer,False,FAST School of Computing Faculty,zeeshan.nazar@nu.edu.pk,/media/Faculty/37._Zeeshan_Nazar_Lecturer_CS.JPG,588.0,"MS (CS), NUCES, Peshawar (2021)"
+6928,Ms. Amina Qaiser,Instructor,False,FAST School of Computing Faculty,amina.qaiser@nu.edu.pk,/media/Faculty/Amina_Qaiser-removebg-preview_fJER9uf.png,599.0,"BS (CS), NUCES Lahore (2023)"
+6791,Mr. Aqib Zeeshan,Instructor,False,FAST School of Computing Faculty,aqib.zeeshan@nu.edu.pk,/media/Faculty/63._Aqib_Zeeshan_Instructor_AIDS.JPG,611.0,"BS (Computer Science), UMT, Lahore (2015)"
+6838,Mr. Hashir Mohsineen,Instructor,False,FAST School of Computing Faculty,hashir.mhsineen@lhr.nu.edu.pk,/media/Faculty/50._Hashir_Mohsineen_Instructor_CS.JPG,630.0,"BS (Computer Science), NUCES, Chiniot- Faisalabad (2021)"
+6422,Mr. Junaid Hussain Muzammal,Instructor,False,FAST School of Computing Faculty,junaid.hussain@nu.edu.pk,/media/Faculty/46._Junaid_Hussain_Muzamal_Instructor_CS.png,906.0,"BS (CS), NUCES, Lahore (2018)"
+6929,Ms. Maria Hassan,Instructor,False,FAST School of Computing Faculty,maria.hassan@nu.edu.pk,/media/Faculty/Maria_Hassan-removebg-preview.png,632.0,"BS (CS), NUCES Islamabad (2023)"
+6767,Mr. Muhammad Hasan,Instructor,False,FAST School of Computing Faculty,m.hasan@nu.edu.pk,/media/Faculty/76._Muhammad_Hasan_Instructor_SE.JPG,611.0,"MSc (CS), COMSATS, Sahiwal (2019)"
+6718,Ms. Sukhan Amir,Instructor,False,FAST School of Computing Faculty,sukhan.amir@nu.edu.pk,/media/Faculty/49._Sukhan_Amir_Instructor_CS_ax2daD0.JPG,627.0,"BS (CS), NUCES, Lahore (2023)"
+6568,Ms. Syeda Zehra Batool,Instructor,True,FAST School of Computing Faculty,zehra.batool@nu.edu.pk,/media/Faculty/6568.jpg,525.0,"MS (CS), NUCES, Lahore (2021)"
+6663,Ms. Zoha Waheed,Instructor,False,FAST School of Computing Faculty,zoha.waheed@nu.edu.pk,/media/Faculty/45._Zoha_Waheed_Instructor_CS.JPG,632.0,"BS (EE), NUCES, Lahore (2018)"
+6943,Mr. Zulqarnain,Instructor,False,FAST School of Computing Faculty,zulqarnain.Ishaq@nu.edu.pk,/media/Faculty/Zulqarnain-removebg-preview.png,,"BS (CS), NUCES, Lahore 2023"
+6772,Mr. Amir Iqbal,Adj. Faculty,False,FAST School of Computing Faculty,amir.iqbal@nu.edu.pk,/media/Faculty/67._Amir_Iqbal_Adj._Faculty_SE.JPG,,"MS (CS), NUCES, Lahore (2007)"
+6770,Ms. Marwa Khan,Junior Lecturer,False,FAST School of Computing Faculty,marwa.khan@nu.edu.pk,/media/Faculty/44._Marwa_Khan_Jun._Lect._CS.JPG,610.0,"MS (Computer Science), NUCES, Lahore (2022)"
+6176,Mr. Nauman Moazzam Hayat,Adj. Faculty,False,FAST School of Computing Faculty,nauman.moazzam@nu.edu.pk,/media/Faculty/25._Nauman_Moazzam_Hayat_Adj_Faculty_CS.png,619.0,"MS (EE), University of Southern California, USA (2001)"
+6771,Ms. Saba Tariq,Junior Lecturer,False,FAST School of Computing Faculty,saba.tariq@nu.edu.pk,/media/Faculty/43._Saba_Tariq_Junior_Lecturer_CS.png,610.0,"MS (CS), NUCES, Lahore (2023)"
+6558,Ms. Samman Ashraf,Junior Lecturer,True,FAST School of Computing Faculty,samman.ashraf@nu.edu.pk,/media/Faculty/39-_Samman_Ashraf_Jun._Lect._CS-removebg-preview.png,,"MS (CS), UCP, Lahore (2020)"
+4198,Dr. Saima Zafar,Professor & HOD,True,Department of Electrical Engineering Faculty,saima.zafar@nu.edu.pk,/media/Faculty/98._Dr_Saima_Zafar_Prof._EE.JPG,,
+4108,Dr. S.M. Sajid,Professor,True,Department of Electrical Engineering Faculty,sm.sajid@nu.edu.pk,/media/Faculty/99._Dr_S_M_Sajid_Prof._EE.JPG,,
+5421,Dr. Syed Aun Abbas,Professor,False,Department of Electrical Engineering Faculty,aun.abbas@nu.edu.pk,/media/Faculty/100._Dr_Syed_Aun_Abbas_Prof._EE.JPG,,
+4609,Dr. Omer Saleem,Associate Professor,True,Department of Electrical Engineering Faculty,omer.saleem@nu.edu.pk,/media/Faculty/101._Dr_Omer_Saleem_Associate_Professor_EE.JPG,,
+6942,Dr. Huzaifa Rauf,Assistant Professor,False,Department of Electrical Engineering Faculty,huzaifa.rauf@nu.edu.pk,/media/Faculty/Dr._Huzaifa_Rauf-removebg-preview_1.png,,
+9452,Dr. Kashif Saeed,Assistant Professor,False,Department of Electrical Engineering Faculty,kashif.saeed@nu.edu.pk,/media/Faculty/102._Dr_Kashif_Saeed_Asst._Prof._EE.JPG,,
+4023,Mr. Abdul Majid,Assistant Professor,False,Department of Electrical Engineering Faculty,abdul.majid@nu.edu.pk,/media/Faculty/104._Abdul_Majid_Asst._Prof._EE.JPG,,
+4233,Ms. Beenish Fatima,Assistant Professor,False,Department of Electrical Engineering Faculty,beenish.fatima@nu.edu.pk,/media/Faculty/108._Beenish_Fatima_Asst._Prof._EE.JPG,,
+3669,Mr. Haris Mujtaba,Assistant Professor,False,Department of Electrical Engineering Faculty,haris.kazmi@nu.edu.pk,/media/Faculty/109._Syed_Haris_Mujtaba_Asst._Prof._EE.JPG,,
+3461,Mr. Mohsin Yousaf,Assistant Professor,False,Department of Electrical Engineering Faculty,mohsin.yousuf@nu.edu.pk,/media/Faculty/106._Mohsin_Yousaf_Asst._Prof._EE.JPG,,
+4484,Ms. Shazia Haque,Assistant Professor,False,Department of Electrical Engineering Faculty,shazia.haque@nu.edu.pk,/media/Faculty/105._Shazia_Haque_Asst._Prof._EE.JPG,,
+3778,Ms. Tamania Javed,Assistant Professor,False,Department of Electrical Engineering Faculty,tamania.javaid@nu.edu.pk,/media/Faculty/107._Tamania_Javaid_Asst._Prof._EE.JPG,,
+7025,Ms. Abeer Bashir,Lecturer,False,Department of Electrical Engineering Faculty,abeer.bashir@nu.edu.pk,/media/Faculty/Abeer_Bashir-removebg-preview_1.png,,
+6289,Mr. Ahmad Hamza Nayyar,Lecturer,False,Department of Electrical Engineering Faculty,ahmad.hamza@nu.edu.pk,/media/Faculty/116._Ahmad_Hamza_Nayyar_Lecturer_EE.JPG,,
+3779,Ms. Akbare Yaqub,Lecturer,False,Department of Electrical Engineering Faculty,akbari.yaqoob@nu.edu.pk,/media/Faculty/110._Akbare_Yaqub_Lecturer_EE.JPG,,
+5218,Ms. Aroosa Umair,Lecturer,False,Department of Electrical Engineering Faculty,aroosa.umair@nu.edu.pk,/media/Faculty/112._Aroosa_Umair_Lecturer_EE.JPG,,
+4809,Ms. Sara Kiran,Lecturer,False,Department of Electrical Engineering Faculty,sara.kiran@nu.edu.pk,/media/Faculty/111._Sara_Kiran_Lecturer_EE.JPG,,
+6843,Mr. Syed Maaz Ahmed Rizvi,Lecturer,False,Department of Electrical Engineering Faculty,maaz.ahmed@nu.edu.pk,/media/Faculty/118._Syed_Maaz_Ahmed_Rizvi_Lecturer_EE.JPG,,
+5231,Mr. Syed Muhammad Ismail,Lecturer,False,Department of Electrical Engineering Faculty,muhammad.ismail@nu.edu.pk,/media/Faculty/113._Syed_M._Ismail_Lecturer_EE.JPG,,
+6557,Mr. Umer Altaf,Lecturer,False,Department of Electrical Engineering Faculty,umer.altaf@nu.edu.pk,/media/Faculty/115._Umer_Altaf_Lecturer_EE.JPG,,
+7005,Ms. Aliha Tanveer,Lab Engineer,False,Department of Electrical Engineering Faculty,aliha.tanveer@nu.edu.pk,/media/Faculty/Aliha_Tanveer-removebg-preview.png,,
+6665,Ms. Eisha Khan,Lab Engineer,False,Department of Electrical Engineering Faculty,eisha.khan@nu.edu.pk,/media/Faculty/119._Eisha_Khan_Lab._Engineer_EE.JPG,,
+6830,Mr. Hafiz Muhammad Muiz Malik,Lab Engineer,False,Department of Electrical Engineering Faculty,muiz.malik@nu.edu.pk,/media/Faculty/120._Hafiz_M._Muiz_Malik_Lab._Engineer_EE.JPG,,
+7002,Ms. Syeda Sughra Kamran,Lab Engineer,False,Department of Electrical Engineering Faculty,sughra.kamran@nu.edu.pk,/media/Faculty/Syeda_Sughra_Kamran-removebg-preview.png,,
+5818,Dr. Tauqir Ahmed,Associate Professor & HOD,True,Department of Civil Engineering Faculty,tauqir.ahmed@nu.edu.pk,/media/Faculty/77._Dr_Tauqir_Ahmed_Prof._CvL.jpg,,
+9451,Dr. Shahid Ali,Professor,True,Department of Civil Engineering Faculty,shahid.ali@nu.edu.pk,/media/Faculty/78._Dr_Shahid_Ali_Prof._CvL.JPG,,
+5705,Dr. Syed Ali Rizwan Bukhari,Professor,True,Department of Civil Engineering Faculty,syed.ali@nu.edu.pk,/media/Faculty/79._Dr_Syed_Ali_Rizwan_Prof._CvL.JPG,,
+6941,Dr. Muhammad Azam,Assistant Professor,False,Department of Civil Engineering Faculty,muhammad.azam@nu.edu.pk,/media/Faculty/Dr._Muhammad_Azam-removebg-preview.png,,
+6047,Dr. Muhammad Umar,Assistant Professor,True,Department of Civil Engineering Faculty,m.umar@nu.edu.pk,/media/Faculty/80._Dr_Muhammad_Umar_Asst._Prof._CvL.JPG,,
+9513,Mr. Ali Raza Khalid,Assistant Professor,False,Department of Civil Engineering Faculty,aliraza.khalid@nu.edu.pk,/media/Faculty/83._Ali_Raza_Khalid_Asst._Prof._CvL.JPG,,
+4592,Ms. Sarah Asif,Assistant Professor,True,Department of Civil Engineering Faculty,sarah.asif@nu.edu.pk,/media/Faculty/81._Sarah_Asif_Asst._Prof._CvL.JPG,,
+5360,Mr. Umar Khan Niazi,Assistant Professor,False,Department of Civil Engineering Faculty,umar.niazi@nu.edu.pk,/media/Faculty/82._Umar_Khan_Niazi_Asst._Prof._CvL.JPG,,
+6041,Mr. Anns Tahir,Lecturer,False,Department of Civil Engineering Faculty,anns.tahir@nu.edu.pk,/media/Faculty/87._Anns_Tahir_Lecturer_CvL.JPG,,
+4300,Mr. Asim Iqbal,Lecturer,False,Department of Civil Engineering Faculty,asim.iqbal@nu.edu.pk,/media/Faculty/86._Asim_Iqbal_Lecturer_CvL.JPG,,
+6839,Mr. Asim Sharif,Lecturer,False,Department of Civil Engineering Faculty,asim.sharif@nu.edu.pk,/media/Faculty/90._Asim_Sharif_Lecturer_CvL.JPG,,
+5553,Mr. Fahad Haseeb,Lecturer,False,Department of Civil Engineering Faculty,fahad.haseeb@nu.edu.pk,/media/Faculty/85._Fahad_Haseeb_Lecturer_CvL.JPG,,
+6573,Ms. Mahnoor Akram,Lecturer,False,Department of Civil Engineering Faculty,mahnoor.akram@nu.edu.pk,/media/Faculty/88._Mah_Noor_Lecturer_CvL.JPG,,
+6817,Mr. Muhammad Bilal Zahid,Lecturer,False,Department of Civil Engineering Faculty,bilal.zahid@nu.edu.pk,/media/Faculty/89._Muhammad_Bilal_Zahid_Lecturer_CvL.JPG,,
+7026,Ms. Sania Khalid,Lecturer,False,Department of Civil Engineering Faculty,sania.khalid@nu.edu.pk,/media/Faculty/Sania_Khalid-removebg-preview.png,,
+6818,Mr. Abdur Rehman Zahid,Lab Engineer,False,Department of Civil Engineering Faculty,abdur.rehman@nu.edu.pk,/media/Faculty/97._Abdur_Rehman_Zahid_Lab._Engineer_CvL.JPG,,
+6816,Mr. Abu Huraira,Lab Engineer,False,Department of Civil Engineering Faculty,abu.huraira@nu.edu.pk,/media/Faculty/96._Abu_Huraira_Lab._Engineer_CvL.JPG,,
+6569,Mr. Hamza Ali,Lab Engineer,False,Department of Civil Engineering Faculty,hamza.ali@nu.edu.pk,/media/Faculty/91._Hamza_Ali_Lab_Engineer_CvL.JPG,,
+6934,Mr. Kashif Hameed,Lab Engineer,False,Department of Civil Engineering Faculty,kashif.hameed@nu.edu.pk,/media/Faculty/Kashif_Hameed-removebg-preview.png,,
+6769,Mr. M. Umer Amin Khan,Lab Engineer,False,Department of Civil Engineering Faculty,umer.amin@nu.edu.pk,/media/Faculty/95._Umer_Amin_Khan_Lab_EnginerCvL.png,,
+6571,Ms. Maham Akram,Lab Engineer,False,Department of Civil Engineering Faculty,maham.akram@nu.edu.pk,/media/Faculty/94._Maham_Akram_Lab_Engineer_CvL.JPG,,
+6933,Mr. Zaid Bin Shahid,Lab Engineer,False,Department of Civil Engineering Faculty,muhammad.zaid@nu.edu.pk,/media/Faculty/Muhammad_Zaid_Bin_Shahid-removebg-preview.png,,
+3924,Dr. Hamid Hassan,Professor & HOD,True,FAST School of Management Faculty,hamid.hassan@nu.edu.pk,/media/Faculty/121._Dr_Hamid_Hassan_Prof_MG.JPG,,
+4685,Dr. Akbar Azam,Associate Professor,True,FAST School of Management Faculty,akbar.azam@nu.edu.pk,/media/Faculty/122.Dr_Akbar_Azam_Assoc._Prof._MG.png,,
+6563,Dr. Amna Farrukh,Assistant Professor,True,FAST School of Management Faculty,amna.farrukh@nu.edu.pk,/media/Faculty/126._Amna_Farrukh_Assit_Prof._MG.png,,
+5712,Dr. Brig Mujahid Hussain,Assistant Professor,True,FAST School of Management Faculty,mujahid.hussain@nu.edu.pk,/media/Faculty/128._Dr_Mujahid_Hussain_Asst._Prof._MG.JPG,,
+4629,Dr. Fatima Omer,Assistant Professor,False,FAST School of Management Faculty,fatima.omer@nu.edu.pk,/media/Faculty/125._Dr_Fatima_Omer_Asst._Prof._MG.JPG,,
+6561,Dr. Komal Kamran,Assistant Professor,False,FAST School of Management Faculty,komal.kamran@nu.edu.pk,/media/Faculty/127._Dr_Komal_Kamran_Asst._Prof._MG.JPG,,
+5423,Dr. Mian Muhammad Atif,Assistant Professor,True,FAST School of Management Faculty,mian.atif @nu.edu.pk,/media/Faculty/123._Dr_Mian_M._Atif_Asst._Prof._MG.JPG,,
+5559,Dr. Munazza Saeed,Assistant Professor,True,FAST School of Management Faculty,munazza.saeed@nu.edu.pk,/media/Faculty/129._Dr_Munazza_Saeed_Asst._Prof._MG.JPG,,
+5427,Dr. Saif Maqbool,Assistant Professor,True,FAST School of Management Faculty,saif.maqbool@nu.edu.pk,/media/Faculty/5427-removebg-preview.png,,
+6426,Dr. Umer Iqbal,Assistant Professor,True,FAST School of Management Faculty,umer.iqbal@nu.edu.pk,/media/Faculty/120_-_Dr._Umer_Iqbal_Asst_Prof_MG_nr59AV5-removebg-preview.png,,
+9495,Dr. Zia Khan,Assistant Professor,True,FAST School of Management Faculty,zia.khan@nu.edu.pk,/media/Faculty/124._Dr_Zia_Ullah_Khan_Asst._Prof._MG.JPG,,
+4483,Mr. Aamer Allauddin,Assistant Professor,False,FAST School of Management Faculty,allauddin@gmail.com,/media/Faculty/130._Aamer_Allauddin_Asst._Prof._MG.JPG,,
+4647,Mr. Shakeel Ahmad,Assistant Professor,False,FAST School of Management Faculty,shakeel.ahmad@nu.edu.pk,/media/Faculty/131._Shakeel_Ahmad_Asst._Prof._MG.JPG,,
+5517,Ms. Aroosa Safdar,Lecturer,False,FAST School of Management Faculty,aroosa.safdar@nu.edu.pk,/media/Faculty/135._Aroosa_Safdar_Lecturer_MG.JPG,,
+5227,Ms. Beenish Arshad,Lecturer,False,FAST School of Management Faculty,beenish.arshad@nu.edu.pk,/media/Faculty/133._Beenish_Arshad_Lecturer_MG.JPG,,
+6930,Mr. Bilal Qaisar,Lecturer,False,FAST School of Management Faculty,bilal.qaisar@nu.edu.pk,/media/Faculty/Bilal_Qaisar-removebg-preview.png,,
+5518,Ms. Fatima Habib,Lecturer,False,FAST School of Management Faculty,fatima.habib@nu.edu.pk,/media/Faculty/132._Fatima_Habib_Lecturer_MG.JPG,,
+6115,Ms. Ghulam Fatima,Lecturer,False,FAST School of Management Faculty,ghulam.fatima@nu.edu.pk,/media/Faculty/144._Ghulam_Fatima_Instructor_MG.JPG,,
+6709,Ms. Iman Ilyas,Lecturer,False,FAST School of Management Faculty,iman.ilyas@nu.edu.pk,/media/Faculty/145._Iman_Ilyas_Instructor_MG.JPG,,
+6565,Ms. Irma Tariq,Lecturer,False,FAST School of Management Faculty,irma.tariq@nu.edu.pk,/media/Faculty/138._Irma_Tariq_Lecturer_MG.JPG,,
+6664,Ms. Khadija Aslam,Lecturer,False,FAST School of Management Faculty,khadija.aslam@nu.edu.pk,/media/Faculty/139._Khadija_Aslam_Lecturer_MG.JPG,,
+6812,Mr. Muhammad Mobeen Ajmal,Lecturer,False,FAST School of Management Faculty,mobeen.ajmal@nu.edu.pk,/media/Faculty/140._M_Mubeen_Ajmal_Lecturer_MG.JPG,,
+6566,Ms. Noor Zahid,Lecturer,False,FAST School of Management Faculty,noor.zahid@nu.edu.pk,/media/Faculty/137._Noor_Zahid_Lecture_MG.JPG,,
+5713,Mr. Salmaan Khalil Rahman,Adjunct Lecturer,False,FAST School of Management Faculty,salmaan.rahman@nu.edu.pk,/media/Faculty/142._Salman_Khalil_Rehman_Adj_Fcaulty_MG.jpg,,
+6813,Ms. Sidra Salman,Lecturer,False,FAST School of Management Faculty,sidra.salman@nu.edu.pk,/media/Faculty/141._Sidra_Salman_Lecturer_MG.JPG,,
+6303,Ms. Sundas Munir,Lecturer,False,FAST School of Management Faculty,sundas.munir@nu.edu.pk,/media/Faculty/134._Sundas_Munir_Lecturer_MG.JPG,,
+6931,Ms. Zunaira Ahmed,Lecturer,False,FAST School of Management Faculty,zunaira.ahmed@nu.edu.pk,/media/Faculty/Zunaira_Ahmed-removebg-preview.png,,
+7016,Ms. Alishba Nisar,Instructor,False,FAST School of Management Faculty,alishba.nisar@nu.edu.pk,/media/Faculty/Alishba_Nisar-removebg-preview.png,,
+7017,Ms. Attiqa Sohail,Instructor,False,FAST School of Management Faculty,attiqa.sohail@nu.edu.pk,/media/Faculty/Attiqa_Sohail-removebg-preview.png,,
+6789,Ms. Fatima Zeb,Instructor,False,FAST School of Management Faculty,fatima.zeb@nu.edu.pk,/media/Faculty/147._Fatima_Zeb_Instructor_MG.JPG,,
+7015,Ms. Sadia Manzoor,Instructor,False,FAST School of Management Faculty,sadia.manzoor@nu.edu.pk,/media/Faculty/Sadia_Manzoor-removebg-preview.png,,
+6964,Ms. Syeda Fatima Jaffery,Instructor,False,FAST School of Management Faculty,fatima.jaffery@nu.edu.pk,/media/Faculty/Syeda_Fatima_Jaffery-removebg-preview.png,,
+6790,Ms. Syeda Fatima Naqvi,Instructor,False,FAST School of Management Faculty,fatima.naqvi@nu.edu.pk,/media/Faculty/146._Syeda_Fatima_Naqvi_Instructor_MG.JPG,,
+6815,Ms. Aiza Aftab,Junior Lecturer,False,FAST School of Management Faculty,aiza.aftab@nu.edu.pk,/media/Faculty/6815__1_-removebg-preview.png,,
+6932,Ms. Saleena Gul,Faculty (Adjunct),False,FAST School of Management Faculty,saleena@nu.edu.pk,/media/Faculty/Saleena_Gul-removebg-preview.png,,
+4332,Dr. Mubashir Qayyum,Professor & HOD,True,Department of Science & Humanities Faculty,mubashir.qayyum@nu.edu.pk,/media/Faculty/149._Dr_Mubashir_Qayyum_Prof._SH.JPG,,
+4020,Dr. Akhlaq Ahmad Bhatti,Professor,True,Department of Science & Humanities Faculty,akhlaq.ahmad@nu.edu.pk,/media/Faculty/150._Dr._Akhlaq_Ahmad_Bhatti_Prof._SH.JPG,,
+3712,Dr. Mazhar Hussain,Professor,True,Department of Science & Humanities Faculty,mazhar.hussain@nu.edu.pk,/media/Faculty/151._Dr_Mazhar_Hussain_Prof._SH.JPG,,
+4250,Dr. Saman Shahid,Professor,True,Department of Science & Humanities Faculty,saman.shahid@nu.edu.pk,/media/Faculty/152._Dr._Saman_Shahid_Prof._SH.jpg,,
+4018,Dr. Summaira Sarfraz,Professor,True,Department of Science & Humanities Faculty,sumaira.sarfraz@nu.edu.pk,/media/Faculty/148._Dr_Summaira_Sarfraz_Prof._SH.png,,
+4584,Dr. Farasat Shamir,Associate Professor,True,Department of Science & Humanities Faculty,farasat.shamir@nu.edu.pk,/media/Faculty/137_-_Dr._Farasat_Shamir_Assoc._Prof_Math__HoD_SH-removebg-preview.png,,
+1250,Dr. Saeeda Zia,Associate Professor,True,Department of Science & Humanities Faculty,saeeda.zia@nu.edu.pk,/media/Faculty/153._Dr_Saeeda_Zia_Assoc._Prof._SH.JPG,,
+4608,Dr. Hina Firdous,Assistant Professor,False,Department of Science & Humanities Faculty,hina.firdous@nu.edu.pk,/media/Faculty/159._Dr_Hina_Firdous_Asst._Prof._SH.JPG,,
+9172,Dr. Hira Iqbal,Assistant Professor,True,Department of Science & Humanities Faculty,hira.iqbal@nu.edu.pk,/media/Faculty/156._Dr_Hira_Iqbal_Asst._Prof._SH.JPG,,
+6768,Dr. Iram Amjad,Assistant Professor,False,Department of Science & Humanities Faculty,iram.amjad@nu.edu.pk,/media/Faculty/158._Dr_Iram_Amjad_Asst._Prof._SH.JPG,,
+5437,Dr. Muhammad Tahir Rashid,Assistant Professor,False,Department of Science & Humanities Faculty,tahir.rashid@nu.edu.pk,/media/Faculty/157._Dr_Tahir_Rashid_Asst._Prof._SH.JPG,,
+6926,Dr. Sara Khan,Assistant Professor,False,Department of Science & Humanities Faculty,sara.khan1@nu.edu.pk,/media/Faculty/Dr._Sara_Khan__1_-removebg-preview_1.png,,
+9173,Dr. Tayyaba Naz,Assistant Professor,True,Department of Science & Humanities Faculty,tayyaba.naz@nu.edu.pk,/media/Faculty/155._Dr_Tayyaba_Naz_Asst._Prof._SH.JPG,,
+4243,Dr. Zahida Mansoor,Assistant Professor,True,Department of Science & Humanities Faculty,zahida.mansoor@nu.edu.pk,/media/Faculty/154._Dr_Zahida_Mansoor_Asst._Prof._SH.JPG,,
+4244,Ms. Hajira Ikram Butt,Assistant Professor,False,Department of Science & Humanities Faculty,hajra.ikram@nu.edu.pk,/media/Faculty/161._Hajra_Ikram_Butt_Asst._Prof._SH.JPG,,
+4245,Mr. Zulfiqar Ali,Assistant Professor,False,Department of Science & Humanities Faculty,ali.zulfiqar@nu.edu.pk,/media/Faculty/160._Zulfiqar_Ali_Asst._Prof._SH.JPG,,
+5438,Mr. Abdul Sattar,Lecturer,False,Department of Science & Humanities Faculty,abdul.sattar@nu.edu.pk,/media/Faculty/165._Abdul_Sattar_Lecturer_SH.JPG,,
+5622,Ms. Aisha Bano,Lecturer,False,Department of Science & Humanities Faculty,aisha.bano@nu.edu.pk,/media/Faculty/164_-_Aisha_Bano_Lecturer_SH-removebg-preview.png,,
+6555,Ms. Aqsa Naz,Lecturer,False,Department of Science & Humanities Faculty,aqsa.naz@nu.edu.pk,/media/Faculty/171_Aqsa_Naz_Lecturer_SH.JPG,,
+5203,Ms. Ayesha Saeed,Lecturer,False,Department of Science & Humanities Faculty,ayesha.saeed@nu.edu.pk,/media/Faculty/164._Ayesha_Saeed_Lecturer_SH.JPG,,
+4397,Mr. Hafiz Hamza Janjua,Lecturer,False,Department of Science & Humanities Faculty,hamza.janjua@nu.edu.pk,/media/Faculty/162._Hafiz_M._Hamza_Janjua_Lecturer_SH.JPG,,
+6421,Ms. Kanwal Saleem,Lecturer,False,Department of Science & Humanities Faculty,kanwal.saleem@nu.edu.pk,/media/Faculty/170._Kanwal_Saleem_Lecturer_SH.JPG,,
+6365,Mr. Muhammad Yaseen,Lecturer,False,Department of Science & Humanities Faculty,m.yaseen@nu.edu.pk,/media/Faculty/169._Muhammad_Yaseen_Lecturer_SH.JPG,,
+6178,Ms. Namra Fazal,Lecturer,False,Department of Science & Humanities Faculty,namra.fazal@nu.edu.pk,/media/Faculty/167._Namra_Fazal_Lecturer_SH.JPG,,
+6420,Ms. Nokhaiz Zahra,Lecturer,False,Department of Science & Humanities Faculty,nokhaiz.zahra@nu.edu.pk,/media/Faculty/174._Nokhaiz_Zahra_Lecturer_SH.JPG,,
+5795,Mr. Razm-ul-Zafar,Lecturer,False,Department of Science & Humanities Faculty,razm.zafar@nu.edu.pk,/media/Faculty/166._Razm-ul-Zafar_Lecturer_SH.JPG,,
+6548,Ms. Rubab Arshad,Lecturer,False,Department of Science & Humanities Faculty,rubab.arshad@nu.edu.pk,/media/Faculty/172._Rubab_Arshad_Lecturer_SH.JPG,,
+5337,Ms. Sarah Ahmad,Lecturer,False,Department of Science & Humanities Faculty,Sarah.ahmad@nu.edu.pk,/media/Faculty/163._Sarah_Ahmad_Lecturer_SH.JPG,,
+6363,Mr. Tasaduque Hussain Shah,Lecturer,False,Department of Science & Humanities Faculty,tasduque.hussain@nu.edu.pk,/media/Faculty/168._Tasaduque_Hussain_Shah_Lecturer_SH.JPG,,
+6567,Ms. Mahnoor Chaudhry,Lecturer (English),False,Department of Science & Humanities Faculty,mahnoor.chaudhary@nu.edu.pk,/media/Faculty/175._Mahnoor_Chaudhry_Instructor_SH.JPG,,

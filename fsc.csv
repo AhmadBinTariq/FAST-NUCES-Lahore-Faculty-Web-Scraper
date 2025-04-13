@@ -1,0 +1,90 @@
+ID,Name,Designation,HEC,Department,Email,Image
+1,Dr. Kashif Zafar,Professor & HOD,True,FAST School of Computing Faculty,kashif.zafar@nu.edu.pk,/media/Faculty/01._Dr_Kashif_Zafar_Prof._CS.JPG
+2,Dr. Aamir Wali,Professor,True,FAST School of Computing Faculty,aamir.wali@nu.edu.pk,/media/Faculty/51._Dr_Aamir_Wali_Prof._AIDS.JPG
+3,Dr. Asif Mahmood Gillani,Professor,True,FAST School of Computing Faculty,asif.gilani@nu.edu.pk,/media/Faculty/02._Dr_Asif_Mehmood_Gilani_Prof._CS.JPG
+4,Dr. Asma Naseer,Professor,True,FAST School of Computing Faculty,asma.naseer@nu.edu.pk,/media/Faculty/07._Dr_Asma_Naseer_Assoc._Prof._CS.png
+5,Dr. Zareen Alamgir,Professor,True,FAST School of Computing Faculty,zareen.alamgir@nu.edu.pk,/media/Faculty/03._Dr_Zareen_Alamgir_Prof._CS.JPG
+6,Dr. Aasim Qureshi,Associate Professor,True,FAST School of Computing Faculty,aasim.qureshi@nu.edu.pk,/media/Faculty/Dr._Muhammad_Aasim_Qureshi-removebg-preview.png
+7,Dr. Ali Afzal Malik,Associate Professor,True,FAST School of Computing Faculty,ali.afzal@nu.edu.pk,/media/Faculty/65._Dr_Ali_Afzal_Malik_Asst._Prof._SE_SM6VFgQ.JPG
+8,Dr. Arshad Ali,Associate Professor,True,FAST School of Computing Faculty,arshad.ali1@nu.edu.pk,/media/Faculty/04._Sr_Arshad_Ali_Assoc._Prof._CS.JPG
+9,Dr. Maryam Bashir,Associate Professor,True,FAST School of Computing Faculty,maryam.bashir@nu.edu.pk,/media/Faculty/52._Dr_Maryam_Bashir_Asst._Prof._AIDS_1jSZW7K.JPG
+10,Dr. Rana Asif Rehman,Associate Professor,True,FAST School of Computing Faculty,r.asif@nu.edu.pk,/media/Faculty/05-_Dr_Rana_Asif_Rehman_Assoc._Prof._CS.JPG
+11,Dr. Saira Karim,Associate Professor,True,FAST School of Computing Faculty,saira.karim@nu.edu.pk,/media/Faculty/06._Dr_Saira_Karim_Assoc._Prof._CS.JPG
+12,Dr. Zeeshan Ali Khan,Associate Professor,True,FAST School of Computing Faculty,zeeshanali.khan@nu.edu.pk,/media/Faculty/08._Dr_Zeeshan_Ali_Khan_Assoc._Prof._CS.JPG
+13,Dr. Aatira Anum,Assistant Professor,False,FAST School of Computing Faculty,aatira.anum@nu.edu.pk,/media/Faculty/12._Dr_Aatira_Anum_Asst._Prof._CS.JPG
+14,Dr. Abdul Qadeer,Assistant Professor,False,FAST School of Computing Faculty,aqadeer@nu.edu.pk,/media/Faculty/13._Dr_Abdul_Qadeer_Asst._Prof._CS.JPG
+15,Dr. Ahmad Raza,Assistant Professor,False,FAST School of Computing Faculty,muhammad.ahmadraza@nu.edu.pk,/media/Faculty/14._Dr_Ahmad_Raza_Asst._Prof._CS_T2lFicM.JPG
+16,Dr. Ammar Haider,Assistant Professor,False,FAST School of Computing Faculty,ammar.haider@nu.edu.pk,/media/Faculty/10._Dr_Ammar_Haider_Assist._Prof._CS.png
+17,Dr. Asma Ahmad Farhan,Assistant Professor,True,FAST School of Computing Faculty,asma.ahmad@nu.edu.pk,/media/Faculty/54._Dr_Asma_Ahmad_Asst._Prof._AIDS_RWyt2iB.png
+18,Dr. Faisal Aslam,Assistant Professor,False,FAST School of Computing Faculty,faisal.aslam@nu.edu.pk,/media/Faculty/11._Dr_Faisal_Aslam_Asst._Prof._CS.JPG
+19,Dr. Farooq Ahmed,Assistant Professor,False,FAST School of Computing Faculty,farooq.ahmad@nu.edu.pk,/media/Faculty/64._Dr_Farooq_Ahmed_Asst._Prof._SE.JPG
+20,Dr. Hajra Waheed,Assistant Professor,False,FAST School of Computing Faculty,hajra.waheed@nu.edu.pk,/media/Faculty/55._Dr_Hajra_Waheed_Asst._Prof._AIDS_zvotU88.png
+21,Dr. Haroon Mahmood,Assistant Professor,True,FAST School of Computing Faculty,haroon.mahmood@nu.edu.pk,/media/Faculty/08_-_Dr._Haroon_Mahmood_Asst_Prof_CS__1_-removebg-preview.png
+22,Dr. Iqra Safder,Assistant Professor,True,FAST School of Computing Faculty,iqra.safder@nu.edu.pk,/media/Faculty/13_-_Dr._Iqra_Safdar_Asst_Prof_CS-removebg-preview.png
+23,Dr. Mirza Mubasher Baig,Assistant Professor,True,FAST School of Computing Faculty,mubasher.baig@nu.edu.pk,/media/Faculty/53._Dr_Mirza_Mubasher_Baig_Asst._Prof._AIDS.JPG
+24,Dr. Syed Mohammad Irteza,Assistant Professor,True,FAST School of Computing Faculty,m.Irteza@nu.edu.pk,/media/Faculty/6302_5wrK2JS-removebg-preview.png
+25,Dr. Tahir Ejaz,Assistant Professor,False,FAST School of Computing Faculty,tahir.ejaz@nu.edu.pk,/media/Faculty/09._Dr_Tahir_Ejaz_Asst._Prof._CS.JPG
+26,Dr. Zeeshan Ali Rana,Assistant Professor,True,FAST School of Computing Faculty,zeeshan.rana@nu.edu.pk,/media/Faculty/66_Dr_Zeeshan_Ali_Rana_Asst._Prof._SE_PatO3hE.JPG
+27,Dr. Hammad Naveed,Adj. Professor,True,FAST School of Computing Faculty,hammad.naveed@nu.edu.pk,/media/Faculty/01_-_Dr._Hammad_Naveed_Professor_CS__Director__1_-removebg-preview.png
+28,Mr. Aamir Raheem,Assistant Professor,False,FAST School of Computing Faculty,aamir.raheem@nu.edu.pk,/media/Faculty/16._Aamir_Raheem_Asst._Prof._CS.JPG
+29,Ms. Abeeda Akram,Assistant Professor,False,FAST School of Computing Faculty,abeeda.akram@nu.edu.pk,/media/Faculty/20._Abeeda_Akram_Asst._Prof._CS.png
+30,Ms. Bushra Rashid,Assistant Professor,False,FAST School of Computing Faculty,bushra.rashid@nu.edu.pk,/media/Faculty/24._Bushra_Rashid_Asst._Prof._CS.png
+31,Mr. Ishaq Raza,Assistant Professor,False,FAST School of Computing Faculty,ishaq.raza@nu.edu.pk,/media/Faculty/15._Ishaq_Raza_Asst._Prof._CS.JPG
+32,Ms. Lehmia Kiran,Assistant Professor,True,FAST School of Computing Faculty,lehmia.kiran@nu.edu.pk,/media/Faculty/21._Lehmia_Kiran_Asst._Prof._CS.png
+33,Ms. Maimoona Akram,Assistant Professor,False,FAST School of Computing Faculty,maimoona.akram@nu.edu.pk,/media/Faculty/23._Maimoona_Akram_Asst._Prof._CS.png
+34,Mr. Mirza Waqar Baig,Assistant Professor,False,FAST School of Computing Faculty,waqar.baig@nu.edu.pk,/media/Faculty/22._Mirza_Waqar_Baig_Asst._Prof._CS_hvK0Pyz.png
+35,Ms. Noshaba Nasir,Assistant Professor,True,FAST School of Computing Faculty,noshaba.nasir@nu.edu.pk,/media/Faculty/028_Noshaba_Nasir_AP_CS-removebg-preview_1-removebg-preview.png
+36,Ms. Samin Iftikhar,Assistant Professor,False,FAST School of Computing Faculty,samin.iftikhar@nu.edu.pk,/media/Faculty/17._Samin_Iftikhar_Asst_Prof._CS.png
+37,Ms. Sobia Tariq Javed,Assistant Professor,False,FAST School of Computing Faculty,sobia.tariq@nu.edu.pk,/media/Faculty/19._Sobia_Tariq_Javed_Asst._Prof._CS.JPG
+38,Mr. Waqas Manzoor,Assistant Professor,False,FAST School of Computing Faculty,waqas.manzoor@nu.edu.pk,/media/Faculty/18._Waqas_Manzoor_Assit_Prof._CS.png
+39,Ms. Aleena Ahmad,Lecturer,False,FAST School of Computing Faculty,aleena.ahmad@nu.edu.pk,/media/Faculty/30._Aleena_Ahmad_Lecturer_CS.png
+40,Ms. Anosha Khan,Lecturer,False,FAST School of Computing Faculty,anosha.khan@nu.edu.pk,/media/Faculty/71._Anoosha_Khan_Lecturer_SE.JPG
+41,Ms. Ansa Liaqat,Lecturer,False,FAST School of Computing Faculty,ansa.liaqat@nu.edu.pk,/media/Faculty/62._Ansa_Liaqat_Lecturer_AIDS.JPG
+42,Ms. Aqsa Khalid,Lecturer,False,FAST School of Computing Faculty,aqsa.khalid@nu.edu.pk,/media/Faculty/Aqsa_Khalid-removebg-preview.png
+43,Ms. Arooj Khalil,Lecturer,False,FAST School of Computing Faculty,arooj.khalil@nu.edu.pk,/media/Faculty/70._Arooj_Khalil_Lecturer_SE.JPG
+44,Ms. Asbah Khalid,Lecturer,True,FAST School of Computing Faculty,asbah.khalid@lhr.nu.edu.pk,/media/Faculty/38._Asbah_Khalid_Lecturer_CS.jpg
+45,Mr. Danyal Farhat,Lecturer,False,FAST School of Computing Faculty,danyal.farhat@nu.edu.pk,/media/Faculty/34._Danyal_Farhat_Lecturer_CS_oDWYVFu.png
+46,Ms. Eesha Tur Razia Babar,Lecturer,False,FAST School of Computing Faculty,esha.razia@nu.edu.pk,/media/Faculty/61._Eesha_Tur_Raziz_Baber_Lecturer_AIDS.png
+47,Mr. Fraz Yousaf,Lecturer,False,FAST School of Computing Faculty,fraz.yousaf@nu.edu.pk,/media/Faculty/72._Fraz_Yousaf_Lecturer_SE.JPG
+48,Mr. Hafiz Usama Hassan Alvi,Lecturer,False,FAST School of Computing Faculty,usama.hassan@nu.edu.pk,/media/Faculty/26._Usama_Hassan_Alvi_Lecturer_CS.png
+49,Mr. Hamad Ul Qudous,Lecturer,False,FAST School of Computing Faculty,hamad.ulqudous@nu.edu.pk,/media/Faculty/59._Hamad_Ul_Qudous_Lecturer_AIDS.JPG
+50,Ms. Hina Iqbal,Lecturer,False,FAST School of Computing Faculty,hina.iqbal@nu.edu.pk,/media/Faculty/73._Hina_Iqbal_Lecturer_SE.png
+51,Ms. Hira Butt,Lecturer,False,FAST School of Computing Faculty,hira.butt@nu.edu.pk,/media/Faculty/36._Hira_Butt_Lecturer_CS.JPG
+52,Ms. Kiran Khurshid,Lecturer,False,FAST School of Computing Faculty,kiran.khurshid@nu.edu.pk,/media/Faculty/40._Kiran_Khurshid_Lecturer_CS.JPG
+53,Mr. M. Saif Ul Islam,Lecturer,False,FAST School of Computing Faculty,muhammad.saif@nu.edu.pk,/media/Faculty/56._M_Saif_Ul_Islam_Lecturer_AIDS.JPG
+54,Ms. Maham Naeem,Lecturer,False,FAST School of Computing Faculty,maham.naeem@nu.edu.pk,/media/Faculty/35._Maham_Naeem_Lecturer_CS.png
+55,Ms. Mamoona Akbar Khan,Lecturer,False,FAST School of Computing Faculty,mamoona.akbar@nu.edu.pk,/media/Faculty/42._Mamoona_Akbar_Jun._Lect._CS.JPG
+56,Ms. Mamoona Majid,Lecturer,False,FAST School of Computing Faculty,mamoona.majid@nu.edu.pk,/media/Faculty/74._Mamoona_Majid_Lecturer_SE.png
+57,Ms. Mehroze Khan,Lecturer,False,FAST School of Computing Faculty,mehroze.khan@nu.edu.pk,/media/Faculty/75._Mehroze_Khan_Lecturer_SE.JPG
+58,Ms. Momna Zaneb,Lecturer,False,FAST School of Computing Faculty,momna.zaneb@nu.edu.pk,/media/Faculty/69._Momna_Zaneb_Lecturer_SE.png
+59,Mr. Mubashar Hussain,Lecturer,False,FAST School of Computing Faculty,mubashar.hussain@nu.edu.pk,/media/Faculty/31._Mubashar_Hussain_Lecturer_CS.png
+60,Mr. Muhammad Naveed,Lecturer,False,FAST School of Computing Faculty,muhammad.naveed@nu.edu.pk,/media/Faculty/29._Muhammad_Naveed_Lecturer_CS_la7oUg9.JPG
+61,Ms. Namra Absar,Lecturer,False,FAST School of Computing Faculty,namra.absar@nu.edu.pk,/media/Faculty/33._Namra_Absar_Lecturer_CS.png
+62,Mr. Razi-uddin,Lecturer,False,FAST School of Computing Faculty,razi.uddin@nu.edu.pk,/media/Faculty/68._Razi_Uddin_Lectrurer_SE.JPG
+63,Ms. Rubab Anam Janjua,Lecturer,False,FAST School of Computing Faculty,rubab.anam@nu.edu.pk,/media/Faculty/32._Rubab_Anam_Janjua_Lecturer_CS.JPG
+64,Mr. Saifullah Tanvir,Lecturer,False,FAST School of Computing Faculty,saifullah.tanvir@nu.edu.pk,/media/Faculty/28._Saifullah_Tanvir_Lecturer_CS.jpeg
+65,Mr. Sajid Ali Kazmi,Lecturer,False,FAST School of Computing Faculty,sajid.kazmi@nu.edu.pk,/media/Faculty/39._Sajid_Ali_Kazmi_Lecturer_CS.JPG
+66,Mr. Salman Shoaib,Lecturer,True,FAST School of Computing Faculty,salman.shoaib@nu.edu.pk,/media/Faculty/41._Salman_Shoaib_jun._Lect_CS.JPG
+67,Ms. Sana Fatima,Lecturer,False,FAST School of Computing Faculty,sana.fatima@nu.edu.pk,/media/Faculty/57._Sana_Fatima_Lecturer_AIDS.png
+68,Ms. Seemab Ayub,Lecturer,False,FAST School of Computing Faculty,seemab.ayub@nu.edu.pk,/media/Faculty/48._Seemab_Ayub_Instructor_CS.JPG
+69,Mr. Syed Ayaz Gillani,Lecturer,False,FAST School of Computing Faculty,ayaz.gillani@nu.edu.pk,/media/Faculty/Syed_Ayaz_Gillani-removebg-preview.png
+70,Mr. Syed Uzair Hussain Naqvi,Lecturer,False,FAST School of Computing Faculty,uzair.naqvi@nu.edu.pk,/media/Faculty/27._Syed_Uzair_Hussain_Lecturer_CS.JPG
+71,Ms. Umm E Ammarah,Lecturer,False,FAST School of Computing Faculty,umme.ammarah@nu.edu.pk,/media/Faculty/60._Umm_e_Ammarah_Lecturer_AIDS.JPG
+72,Mr. Usman Anwer,Lecturer,False,FAST School of Computing Faculty,usman.anwer@lhr.nu.edu.pk,/media/Faculty/47._Usman_Anwar_Instructor_CS.JPG
+73,Mr. Waqas Ali,Lecturer,False,FAST School of Computing Faculty,rana.waqasali@nu.edu.pk,/media/Faculty/Waqas_Ali-removebg-preview.png
+74,Mr. Zeeshan Nazar,Lecturer,False,FAST School of Computing Faculty,zeeshan.nazar@nu.edu.pk,/media/Faculty/37._Zeeshan_Nazar_Lecturer_CS.JPG
+75,Ms. Amina Qaiser,Instructor,False,FAST School of Computing Faculty,amina.qaiser@nu.edu.pk,/media/Faculty/Amina_Qaiser-removebg-preview_fJER9uf.png
+76,Mr. Aqib Zeeshan,Instructor,False,FAST School of Computing Faculty,aqib.zeeshan@nu.edu.pk,/media/Faculty/63._Aqib_Zeeshan_Instructor_AIDS.JPG
+77,Mr. Hashir Mohsineen,Instructor,False,FAST School of Computing Faculty,hashir.mhsineen@lhr.nu.edu.pk,/media/Faculty/50._Hashir_Mohsineen_Instructor_CS.JPG
+78,Mr. Junaid Hussain Muzammal,Instructor,False,FAST School of Computing Faculty,junaid.hussain@nu.edu.pk,/media/Faculty/46._Junaid_Hussain_Muzamal_Instructor_CS.png
+79,Ms. Maria Hassan,Instructor,False,FAST School of Computing Faculty,maria.hassan@nu.edu.pk,/media/Faculty/Maria_Hassan-removebg-preview.png
+80,Mr. Muhammad Hasan,Instructor,False,FAST School of Computing Faculty,m.hasan@nu.edu.pk,/media/Faculty/76._Muhammad_Hasan_Instructor_SE.JPG
+81,Ms. Sukhan Amir,Instructor,False,FAST School of Computing Faculty,sukhan.amir@nu.edu.pk,/media/Faculty/49._Sukhan_Amir_Instructor_CS_ax2daD0.JPG
+82,Ms. Syeda Zehra Batool,Instructor,True,FAST School of Computing Faculty,zehra.batool@nu.edu.pk,/media/Faculty/6568.jpg
+83,Ms. Zoha Waheed,Instructor,False,FAST School of Computing Faculty,zoha.waheed@nu.edu.pk,/media/Faculty/45._Zoha_Waheed_Instructor_CS.JPG
+84,Mr. Zulqarnain,Instructor,False,FAST School of Computing Faculty,zulqarnain.Ishaq@nu.edu.pk,/media/Faculty/Zulqarnain-removebg-preview.png
+85,Mr. Amir Iqbal,Adj. Faculty,False,FAST School of Computing Faculty,amir.iqbal@nu.edu.pk,/media/Faculty/67._Amir_Iqbal_Adj._Faculty_SE.JPG
+86,Ms. Marwa Khan,Junior Lecturer,False,FAST School of Computing Faculty,marwa.khan@nu.edu.pk,/media/Faculty/44._Marwa_Khan_Jun._Lect._CS.JPG
+87,Mr. Nauman Moazzam Hayat,Adj. Faculty,False,FAST School of Computing Faculty,nauman.moazzam@nu.edu.pk,/media/Faculty/25._Nauman_Moazzam_Hayat_Adj_Faculty_CS.png
+88,Ms. Saba Tariq,Junior Lecturer,False,FAST School of Computing Faculty,saba.tariq@nu.edu.pk,/media/Faculty/43._Saba_Tariq_Junior_Lecturer_CS.png
+89,Ms. Samman Ashraf,Junior Lecturer,True,FAST School of Computing Faculty,samman.ashraf@nu.edu.pk,/media/Faculty/39-_Samman_Ashraf_Jun._Lect._CS-removebg-preview.png

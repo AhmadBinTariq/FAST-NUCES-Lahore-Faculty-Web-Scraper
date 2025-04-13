@@ -1,0 +1,36 @@
+ID,Name,Designation,HEC,Department,Email,Image
+1,Dr. Hamid Hassan,Professor & HOD,True,FAST School of Management Faculty,hamid.hassan@nu.edu.pk,/media/Faculty/121._Dr_Hamid_Hassan_Prof_MG.JPG
+2,Dr. Akbar Azam,Associate Professor,True,FAST School of Management Faculty,akbar.azam@nu.edu.pk,/media/Faculty/122.Dr_Akbar_Azam_Assoc._Prof._MG.png
+3,Dr. Amna Farrukh,Assistant Professor,True,FAST School of Management Faculty,amna.farrukh@nu.edu.pk,/media/Faculty/126._Amna_Farrukh_Assit_Prof._MG.png
+4,Dr. Brig Mujahid Hussain,Assistant Professor,True,FAST School of Management Faculty,mujahid.hussain@nu.edu.pk,/media/Faculty/128._Dr_Mujahid_Hussain_Asst._Prof._MG.JPG
+5,Dr. Fatima Omer,Assistant Professor,False,FAST School of Management Faculty,fatima.omer@nu.edu.pk,/media/Faculty/125._Dr_Fatima_Omer_Asst._Prof._MG.JPG
+6,Dr. Komal Kamran,Assistant Professor,False,FAST School of Management Faculty,komal.kamran@nu.edu.pk,/media/Faculty/127._Dr_Komal_Kamran_Asst._Prof._MG.JPG
+7,Dr. Mian Muhammad Atif,Assistant Professor,True,FAST School of Management Faculty,mian.atif @nu.edu.pk,/media/Faculty/123._Dr_Mian_M._Atif_Asst._Prof._MG.JPG
+8,Dr. Munazza Saeed,Assistant Professor,True,FAST School of Management Faculty,munazza.saeed@nu.edu.pk,/media/Faculty/129._Dr_Munazza_Saeed_Asst._Prof._MG.JPG
+9,Dr. Saif Maqbool,Assistant Professor,True,FAST School of Management Faculty,saif.maqbool@nu.edu.pk,/media/Faculty/5427-removebg-preview.png
+10,Dr. Umer Iqbal,Assistant Professor,True,FAST School of Management Faculty,umer.iqbal@nu.edu.pk,/media/Faculty/120_-_Dr._Umer_Iqbal_Asst_Prof_MG_nr59AV5-removebg-preview.png
+11,Dr. Zia Khan,Assistant Professor,True,FAST School of Management Faculty,zia.khan@nu.edu.pk,/media/Faculty/124._Dr_Zia_Ullah_Khan_Asst._Prof._MG.JPG
+12,Mr. Aamer Allauddin,Assistant Professor,False,FAST School of Management Faculty,allauddin@gmail.com,/media/Faculty/130._Aamer_Allauddin_Asst._Prof._MG.JPG
+13,Mr. Shakeel Ahmad,Assistant Professor,False,FAST School of Management Faculty,shakeel.ahmad@nu.edu.pk,/media/Faculty/131._Shakeel_Ahmad_Asst._Prof._MG.JPG
+14,Ms. Aroosa Safdar,Lecturer,False,FAST School of Management Faculty,aroosa.safdar@nu.edu.pk,/media/Faculty/135._Aroosa_Safdar_Lecturer_MG.JPG
+15,Ms. Beenish Arshad,Lecturer,False,FAST School of Management Faculty,beenish.arshad@nu.edu.pk,/media/Faculty/133._Beenish_Arshad_Lecturer_MG.JPG
+16,Mr. Bilal Qaisar,Lecturer,False,FAST School of Management Faculty,bilal.qaisar@nu.edu.pk,/media/Faculty/Bilal_Qaisar-removebg-preview.png
+17,Ms. Fatima Habib,Lecturer,False,FAST School of Management Faculty,fatima.habib@nu.edu.pk,/media/Faculty/132._Fatima_Habib_Lecturer_MG.JPG
+18,Ms. Ghulam Fatima,Lecturer,False,FAST School of Management Faculty,ghulam.fatima@nu.edu.pk,/media/Faculty/144._Ghulam_Fatima_Instructor_MG.JPG
+19,Ms. Iman Ilyas,Lecturer,False,FAST School of Management Faculty,iman.ilyas@nu.edu.pk,/media/Faculty/145._Iman_Ilyas_Instructor_MG.JPG
+20,Ms. Irma Tariq,Lecturer,False,FAST School of Management Faculty,irma.tariq@nu.edu.pk,/media/Faculty/138._Irma_Tariq_Lecturer_MG.JPG
+21,Ms. Khadija Aslam,Lecturer,False,FAST School of Management Faculty,khadija.aslam@nu.edu.pk,/media/Faculty/139._Khadija_Aslam_Lecturer_MG.JPG
+22,Mr. Muhammad Mobeen Ajmal,Lecturer,False,FAST School of Management Faculty,mobeen.ajmal@nu.edu.pk,/media/Faculty/140._M_Mubeen_Ajmal_Lecturer_MG.JPG
+23,Ms. Noor Zahid,Lecturer,False,FAST School of Management Faculty,noor.zahid@nu.edu.pk,/media/Faculty/137._Noor_Zahid_Lecture_MG.JPG
+24,Mr. Salmaan Khalil Rahman,Adjunct Lecturer,False,FAST School of Management Faculty,salmaan.rahman@nu.edu.pk,/media/Faculty/142._Salman_Khalil_Rehman_Adj_Fcaulty_MG.jpg
+25,Ms. Sidra Salman,Lecturer,False,FAST School of Management Faculty,sidra.salman@nu.edu.pk,/media/Faculty/141._Sidra_Salman_Lecturer_MG.JPG
+26,Ms. Sundas Munir,Lecturer,False,FAST School of Management Faculty,sundas.munir@nu.edu.pk,/media/Faculty/134._Sundas_Munir_Lecturer_MG.JPG
+27,Ms. Zunaira Ahmed,Lecturer,False,FAST School of Management Faculty,zunaira.ahmed@nu.edu.pk,/media/Faculty/Zunaira_Ahmed-removebg-preview.png
+28,Ms. Alishba Nisar,Instructor,False,FAST School of Management Faculty,alishba.nisar@nu.edu.pk,/media/Faculty/Alishba_Nisar-removebg-preview.png
+29,Ms. Attiqa Sohail,Instructor,False,FAST School of Management Faculty,attiqa.sohail@nu.edu.pk,/media/Faculty/Attiqa_Sohail-removebg-preview.png
+30,Ms. Fatima Zeb,Instructor,False,FAST School of Management Faculty,fatima.zeb@nu.edu.pk,/media/Faculty/147._Fatima_Zeb_Instructor_MG.JPG
+31,Ms. Sadia Manzoor,Instructor,False,FAST School of Management Faculty,sadia.manzoor@nu.edu.pk,/media/Faculty/Sadia_Manzoor-removebg-preview.png
+32,Ms. Syeda Fatima Jaffery,Instructor,False,FAST School of Management Faculty,fatima.jaffery@nu.edu.pk,/media/Faculty/Syeda_Fatima_Jaffery-removebg-preview.png
+33,Ms. Syeda Fatima Naqvi,Instructor,False,FAST School of Management Faculty,fatima.naqvi@nu.edu.pk,/media/Faculty/146._Syeda_Fatima_Naqvi_Instructor_MG.JPG
+34,Ms. Aiza Aftab,Junior Lecturer,False,FAST School of Management Faculty,aiza.aftab@nu.edu.pk,/media/Faculty/6815__1_-removebg-preview.png
+35,Ms. Saleena Gul,Faculty (Adjunct),False,FAST School of Management Faculty,saleena@nu.edu.pk,/media/Faculty/Saleena_Gul-removebg-preview.png
